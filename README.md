@@ -21,7 +21,7 @@ import PackageDescription
 let package = Package(
     // ...
     dependencies: [
-        .package(url: "", from: ""),
+        .package(url: "https://github.com/AiondaDotCom/MailFaker", from: "1.0.0"),
     ]
     // ...
 )
